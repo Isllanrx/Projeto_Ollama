@@ -9,6 +9,10 @@ O **Llama Educacional** é uma interface gráfica desenvolvida para facilitar o 
 - Integração direta com o Ollama sem necessidade de linha de comando.
 - Respostas dinâmicas e interativas em tempo real.
 
+## Captura de Tela
+![Interface do Llama Educacional](Projeto_Ollama/Img/Interface_1.png)
+![Interface do Llama Educacional](Projeto_Ollama/Img/Interface_2.png)
+
 ## Tecnologias Utilizadas
 - **Linguagem:** Python
 - **Modelo de IA:** Ollama
@@ -27,7 +31,7 @@ O **Llama Educacional** é uma interface gráfica desenvolvida para facilitar o 
 3. Certifique-se de abrir tanto o projeto quanto o Ollama como administrador.
 
 ## Contribuição
-Contribuições são bem-vindas!
+Contribuições são bem-vindas! Para contribuir:
 
 ## Licença
 Este projeto está sob a licença MIT.
@@ -36,6 +40,4 @@ Este projeto está sob a licença MIT.
 Caso tenha dúvidas ou sugestões, entre em contato:
 - **Email:** Isllan.toso@hotmail.com
 - **LinkedIn:** [Isllan Toso](https://www.linkedin.com/in/isllantoso/)
-
-
 
