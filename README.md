@@ -10,8 +10,8 @@ O **Llama Educacional** é uma interface gráfica desenvolvida para facilitar o 
 - Respostas dinâmicas e interativas em tempo real.
 
 ## Captura de Tela
-![Interface do Llama Educacional](Projeto_Ollama/Img/Interface_1.png)
-![Interface do Llama Educacional](Projeto_Ollama/Img/Interface_2.png)
+![Interface do Llama Educacional_1](Img/Interface_1.png)
+![Interface do Llama Educacional_2](Img/Interface_2.png)
 
 ## Tecnologias Utilizadas
 - **Linguagem:** Python
